@@ -1,6 +1,6 @@
-# GIF-Searcher-Client
+# Task-List
 
-Use this React app to search for some GIFs!
+Use this React app to create a task list!
 
 ## Setup
 
